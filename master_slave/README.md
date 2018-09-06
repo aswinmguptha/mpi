@@ -1,6 +1,6 @@
 # Master Slave
 
-A simple program to understand how to use MPI’s sending and receiving functions. The number provided the slave
+A simple program to understand how to use MPI’s sending and receiving functions.
 
 ## Tutorial
 [mpitutorial](http://mpitutorial.com/tutorials/mpi-send-and-receive/)
